@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6671079344",
+    "firebase_url": "https://mychat-1a888.firebaseio.com",
+    "project_id": "mychat-1a888",
+    "storage_bucket": "mychat-1a888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6671079344:android:b048e4b1e647e637472875",
+        "android_client_info": {
+          "package_name": "co.neville.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6671079344-cd9a2hqg7f5bi6n97obfq5p8krq6qjo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUE4mNDI4iqPRdTNzCct6S8Y8uGBsjQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6671079344-cd9a2hqg7f5bi6n97obfq5p8krq6qjo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
