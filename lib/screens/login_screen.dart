@@ -112,7 +112,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
                   }
                   catch(e) {
-                    _showFlush(context, 'Login details are invalid', Colors.red);
+                    _showFlush(context, e.message, Colors.red);
                     setState(() {
                       showSpinner = false;
                     });
